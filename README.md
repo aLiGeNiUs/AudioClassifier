@@ -1,7 +1,8 @@
 # AudioClassifier
 
-س
+
 Audio Classifier Application Guide
+
 1. Introduction
 The Audio Classifier Application is a tool designed to record, upload, and classify audio files based on emotions (Happy, Sad, Angry, Neutral). It uses a pre-trained Wav2Vec2 model for emotion classification and allows users to train a new model if needed. The application supports both English and Arabic languages for the user interface.
 2. System Requirements
